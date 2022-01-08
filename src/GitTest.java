@@ -8,5 +8,9 @@ public class GitTest {
 	public void print() {
 		System.out.println(" This is cmd practice!");
 	}
+	
+	public void display() {
+		System.out.println(" This is another changes");
+	}
 
 }
