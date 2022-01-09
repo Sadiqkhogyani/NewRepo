@@ -15,5 +15,8 @@ public class GitTest {
 	public void displayAndPrintOutPut() {
 		System.out.println("The code id modified and look it that how it is plz");
 	}
+	public void displayAndPrintOutPut1() {
+		System.out.println("The code id modified and look it that how it is plz");
+	}
 
 }
