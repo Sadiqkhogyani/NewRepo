@@ -8,5 +8,8 @@ public class GitCommandPractic {
 	void print() {
 		System.out.println("Prints something");
 	}
+	void display() {
+		System.out.println();
+	}
 
 }
