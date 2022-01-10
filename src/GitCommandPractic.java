@@ -5,5 +5,8 @@ public class GitCommandPractic {
 		// TODO Auto-generated method stub
 
 	}
+	void print() {
+		System.out.println("Prints something");
+	}
 
 }
