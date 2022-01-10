@@ -11,5 +11,8 @@ public class GitCommandPractic {
 	void display() {
 		System.out.println();
 	}
+	void display1() {
+		System.out.println();
+	}
 
 }
